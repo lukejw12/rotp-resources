@@ -1,0 +1,12 @@
+{
+    "model": {
+        "model": "rotp:pottery/tint/pottery/pot_type_slab",
+        "type": "model",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": 16777215
+      }
+    ]
+    }
+}
