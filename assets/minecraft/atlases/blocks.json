@@ -1,0 +1,24 @@
+{
+  "sources": [
+    {
+      "type": "directory",
+      "source": "gui_elements",
+      "prefix": "gui_elements/"
+    },
+    {
+      "type": "directory",
+      "source": "items",
+      "prefix": "items/"
+    },
+    {
+      "type": "directory",
+      "source": "pottery",
+      "prefix": "pottery/"
+    },
+    {
+      "type": "directory",
+      "source": "blocks",
+      "prefix": "blocks/"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+	"textures": {
+		"0": "rotp:blocks/pottery_wheel_base",
+		"particle": "rotp:blocks/pottery_wheel_base"
+	},
+	"elements": [
+		{
+			"from": [-0.01, -0.01, -0.01],
+			"to": [16.02, 12.02, 16.02],
+			"faces": {
+				"north": {"uv": [0, 1, 4, 4], "texture": "#0"},
+				"east": {"uv": [0, 1, 4, 4], "texture": "#0"},
+				"south": {"uv": [0, 1, 4, 4], "texture": "#0"},
+				"west": {"uv": [0, 1, 4, 4], "texture": "#0"},
+				"up": {"uv": [8, 7.75, 4, 3.75], "texture": "#0"},
+				"down": {"uv": [4, 8, 0, 12], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-0.01, 12, -0.01],
+			"to": [16.02, 16.02, 16.02],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 12, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 4, 1], "texture": "#0"},
+				"east": {"uv": [0, 0, 4, 1], "texture": "#0"},
+				"south": {"uv": [0, 0, 4, 1], "texture": "#0"},
+				"west": {"uv": [0, 0, 4, 1], "texture": "#0"},
+				"up": {"uv": [0, 8, 4, 12], "texture": "#0"},
+				"down": {"uv": [0, 8, 4, 12], "texture": "#0"}
+			}
+		}
+	]
+}

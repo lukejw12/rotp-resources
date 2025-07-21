@@ -1,0 +1,20 @@
+{
+	"textures": {
+		"0": "rotp:blocks/research_workbench_base",
+		"particle": "rotp:blocks/research_workbench_base"
+	},
+	"elements": [
+		{
+			"from": [-0.01, -0.01, -0.01],
+			"to": [16.02, 16.02, 16.02],
+			"faces": {
+				"north": {"uv": [0, 0, 4, 4], "texture": "#0"},
+				"east": {"uv": [4, 0, 8, 4], "texture": "#0"},
+				"south": {"uv": [0, 0, 4, 4], "texture": "#0"},
+				"west": {"uv": [4, 0, 8, 4], "texture": "#0"},
+				"up": {"uv": [4, 12, 0, 8], "texture": "#0"},
+				"down": {"uv": [8, 3.75, 4, 7.75], "texture": "#0"}
+			}
+		}
+	]
+}
